@@ -1,0 +1,111 @@
+.detail__content {
+    margin: 30px 0;
+}
+
+.list-img li a img {
+    width: 80px;
+    height: 80px;
+}
+
+li.nav-item a.nav-link {
+    background: none !important;
+    padding: 8px 10px 8px 0;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: nowrap !important;
+}
+
+.header__navbar {
+    padding-top: 10px;
+}
+
+.text-title {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.rating {
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.price {
+    display: flex;
+    font-size: 1.4rem;
+    padding: 10px;
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.price-new {
+    font-size: 2.5rem;
+}
+
+.ship {
+    display: flex;
+    font-size: 1.6rem;
+    margin: 10px;
+}
+
+.size {
+    font-size: 1.6rem;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.choose-size button {
+    font-size: 1.4rem;
+}
+
+.order-number {
+    display: flex;
+    font-size: 1.4rem;
+}
+
+.order-number input,
+span {
+    height: 100%;
+    padding: 10px;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+.buy-order a {
+    margin: 30px 20px 30px 10px;
+    font-size: 1.8rem;
+}
+
+.description-product {
+    background-color: #fff;
+    box-shadow: 0 4px 3px rgba(0, 0, 0, 0.2);
+}
+
+.head-title {
+    padding: 10px;
+    background-color: rgb(240, 240, 240);
+}
+
+.list-danhmuc {
+    list-style: none;
+    font-size: 1.5rem;
+    padding-left: 0;
+    padding: 5px;
+    margin: 20px 0;
+}
+
+.list-danhmuc li {
+    margin-top: 20px;
+}
+
+.list-top-item ul {
+    list-style: none;
+}
+
+.list-top-item ul li {
+    margin-top: 10px;
+}
